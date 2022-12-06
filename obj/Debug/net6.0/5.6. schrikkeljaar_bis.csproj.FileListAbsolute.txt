@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\bin\Debug\net6.0\5.6. schrikkeljaar_bis.exe
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\bin\Debug\net6.0\5.6. schrikkeljaar_bis.deps.json
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\bin\Debug\net6.0\5.6. schrikkeljaar_bis.runtimeconfig.json
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\bin\Debug\net6.0\5.6. schrikkeljaar_bis.dll
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\bin\Debug\net6.0\5.6. schrikkeljaar_bis.pdb
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.AssemblyInfo.cs
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.dll
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\refint\5.6. schrikkeljaar_bis.dll
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.pdb
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\5.6. schrikkeljaar_bis.genruntimeconfig.cache
+D:\multimedi\Cscherp\5.6. schrikkeljaar_bis\obj\Debug\net6.0\ref\5.6. schrikkeljaar_bis.dll
